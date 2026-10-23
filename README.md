@@ -32,3 +32,11 @@ Set the start command to `npm start` (or `node server.js`).
 - Powered by the open-source [Scramjet](https://github.com/MercuryWorkshop/scramjet)
   proxy engine. All credit for the engine goes to Mercury Workshop.
 - Licensed under the AGPL-3.0.
+
+---
+
+## AI note
+
+This is an **AI "vibe-coded" passion project**, built for fun by **Canyon Lake
+Labs**. It is made with AI. If you don't like AI, then don't use it.
+
